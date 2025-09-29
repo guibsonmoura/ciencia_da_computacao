@@ -11,7 +11,7 @@ Meu objetivo é aprender os fundamentos de ciência da computação e compartilh
 - 📖 Atualmente lendo o livro **Sistemas Digitais - Princípios e Aplicações**
 
 ## Estrutura do Repositório
-``
+```
 │
 ├── 1_etapa/ # Primeira etapa do curso
 │ ├── circuitos_digitais/ # Disciplina: Circuitos Digitais
@@ -27,7 +27,7 @@ Meu objetivo é aprender os fundamentos de ciência da computação e compartilh
 ├── anotações_gerais/ # Anotações não ligadas a uma disciplina específica
 ├── projetos_pessoais/ # Projetos extras inspirados pelo curso
 └── README.md # Documentação principal do repositório
-``
+```
 ##  Motivação
 Quero registrar cada passo do meu aprendizado, tanto para consolidar meu conhecimento quanto para ajudar quem também deseja seguir esse caminho.
 
