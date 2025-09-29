@@ -1,0 +1,26 @@
+Pergunta:
+    1 - Quais são os dois estados binários de um sistema de telégrafo?
+
+    Resposta: 
+        Os estados binários do telégrafo são ligado (corrente fluindo) e desligado (sem corrente).
+Pergunta:
+    2 - Como era codificada a informação de telégrafo usando esses dois estados?
+
+    Resposta:
+        A informação de telégrafo era codificada na amplitude (duração de tempo) de cada pulso e na sequência dos pulsos.
+Pergunta:
+    3 - Qual propriedade de uma forma de onda de áudio afeta a intensidade do som?
+    Resposta: 
+        A intensidade do som é afetada pela Amplitude da onda.
+Pergunta:
+    4 - Qual propriedade de uma forma de onda de áudio afeta a altura de um tom?
+    Resposta:
+        A altura de um tom é afetada pela Frequência da onda em uma determinada quantidade de tempo.
+Pergunta:
+    5 - Qual método de representar quantidades envolve passos discretos?
+    Resposta:
+        O método digital.
+Pergunta:
+    6 - Qual método de representar quantidades é continuamente varivável?
+    Resposta:
+        O métodos analógico.

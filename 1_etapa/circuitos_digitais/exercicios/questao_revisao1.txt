@@ -1,0 +1,18 @@
+Questão para revisão
+
+Pergunta:
+1 – Quantos estados fundamentais existem em um sistema digital?
+
+Resposta:
+Um sistema digital possui dois estados fundamentais, que correspondem às condições de ligado e desligado. Esses estados são
+representados numericamente pelos valores 1 e 0, respectivamente. Tal conceito é a base da operação dos sistemas digitais, uma
+vez que toda a informação pode ser codificada e processada utilizando apenas essas duas possibilidades de estado.
+
+===========================================================================================
+Pergunta: 
+2 - Como chamamos um gráfico que mostra mudanças entre dois estados (1s e 0s) em relação ao tempo?
+
+Resposta:
+    Esse tipo de gráfico é denominado diagrama de tempos. Ele representa visualmente os estados digitais de um sistema (1 ou 0)
+    em função do tempo, permitindo observar tanto o estado em cada instante quanto o momento exato em que ocorrem as transições 
+    entre os níveis de tensão.

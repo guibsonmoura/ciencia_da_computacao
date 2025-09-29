@@ -1,0 +1,7 @@
+Pergunta:
+    1 - Como um sistema analógico é representado em um sistema digital?
+    Resposta:
+        o sistema analógica é representado por zeros e um's no sistema digital.
+Pergunta:
+    2 - Como os 1s e 0s são representados eletricamente?
+        os 1s e 0s são representado em faixas de tensao o 1 representado pela faixa 2v à 5v, e o 0 representado pelo faixa 0,8v à 0v.

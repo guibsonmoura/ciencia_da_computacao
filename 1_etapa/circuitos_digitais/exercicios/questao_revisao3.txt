@@ -1,0 +1,34 @@
+Pergunta:
+    1 - Cite três maneiras de uma informação ser codificada usando um sistema digital binário.
+    Resposta:
+        quando eu falo no telefone a minha voz está sendo codificada para um sistema digital.
+        a pressão pneumática de um pneu pode ser codificado usando um sitema digital.
+        a temperatura pode ser codificada usando um sistema digital.
+Pergunta:
+    2 - O que era digital e o que era analógico nos primeiros sistemas telefônicos?
+    Resposta:
+        Digital: os toques de campainha (curtos e longos) usados para identificar a pessoa ou discar números.
+
+        Analógico: a voz das pessoas, que era transmitida como sinal contínuo.
+
+Pergunta:
+    3 - O que é digital e o que é analógico nos sistemas de telefones celulares modernos?
+    Resposta:
+        Entrada de voz: analógica (microfone capta a voz)
+        Entrada convertida para digital: o celular transforma a voz em sinais digitais
+        Transmissão via rádio: analógica (ondas de rádio transportam o sinal digital)
+        Saída no alto-falante: analógica (o sinal digital é convertido novamente em som)
+Pergunta:
+    4 - Quais são as vantagens das técnicas digitais sobre as analógicas?
+    Resposta:
+        - Os circuitos digitais são geralmente mais fáceis de ser projetados
+        - O armazenamento de informação é mais fácil.
+        - é mais fácil manter a precisão e exatidão em todo o sistema.
+        - as operações podem ser programadas
+        - os circuitos digitais são menos afetados por ruído(interferência)
+        - chips digitais podem ser fabricados com mais dispositivos internos.
+Pergunta:
+    5 - Qual é a principal limitação ao uso de técnicas digitais?
+    Resposta:
+        O mundo real é analógico (ou seja, você precisa fazer conversões)
+        Processar sinais digitais leva tempo
